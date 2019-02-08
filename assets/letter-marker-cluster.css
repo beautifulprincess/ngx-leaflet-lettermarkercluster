@@ -1,0 +1,10 @@
+.leaflet-container .leaflet-marker-pane img{
+	border-radius: 50%;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.23);
+	border: 4px solid #fff;
+	transition-duration: 0.2s;
+}
+.leaflet-container .leaflet-marker-pane img:hover {
+	border: 0px solid #fff;
+}
+
